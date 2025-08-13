@@ -1,0 +1,7 @@
+gpu_model,nodes,total_gpus,median_cpu,max_gpus
+A100-SXM4-80GB,432,3456,128.0,8
+A10,2494,2494,128.0,1
+H800,219,1752,192.0,8
+GPU-series-1,989,1558,192.0,8
+GPU-series-2,122,976,192.0,8
+A800-SXM4-80GB,22,176,128.0,8

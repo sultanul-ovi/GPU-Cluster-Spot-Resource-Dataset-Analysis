@@ -1,0 +1,3 @@
+Gini across organizations by GPU seconds 0.9117
+Inter arrival median seconds 16.00
+Hourly arrival mean 105.65 variance 9506.18 fano 89.978 cv 0.923

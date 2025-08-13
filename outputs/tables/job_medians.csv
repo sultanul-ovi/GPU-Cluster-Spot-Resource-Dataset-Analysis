@@ -1,0 +1,5 @@
+,median
+cpu_request,8.0
+gpu_request,1.0
+worker_num,1.0
+duration,1216.0

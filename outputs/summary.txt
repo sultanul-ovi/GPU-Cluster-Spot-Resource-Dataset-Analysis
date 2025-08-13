@@ -1,0 +1,7 @@
+Dataset summary
+Nodes 4278, GPU cards 10412, GPU models 6
+Jobs 466867, Organizations 84
+Trace span days 184.06
+Total GPU seconds 142.31B, GPU years 4512.75
+Total CPU seconds 2.71T, CPU years 86044.11
+Multi worker share 8.41%, Max workers 332

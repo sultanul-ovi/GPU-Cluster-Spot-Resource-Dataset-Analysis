@@ -1,0 +1,5 @@
+is_long,job_type,jobs,gpu_seconds
+False,HP,355453,5037003829.8
+False,Spot,45961,1154397546.5
+True,HP,60260,133823739777.26
+True,Spot,5193,2298967940.5
